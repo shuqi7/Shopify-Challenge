@@ -2,7 +2,7 @@
 
 var searchAPI = "https://api.github.com/search/repositories?q=";
 
-// track the information of all favorite repos
+// track the ID of all favorite repos
 var favArray = [];
 
 $(document).ready(function() {
