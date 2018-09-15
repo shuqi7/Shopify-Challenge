@@ -1,3 +1,5 @@
+// Qi Shu - Shopify Challenge 2019 Winter
+
 var searchAPI = "https://api.github.com/search/repositories?q=";
 
 // track the information of all favorite repos
@@ -134,3 +136,4 @@ function reverseClass(id){
     }); 
 }
 
+// Qi Shu - Shopify Challenge 2019 Winter
