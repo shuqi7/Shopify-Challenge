@@ -1,6 +1,6 @@
 # Web Developer Intern Challenge
 
-Web application in build. Open index.html to view the website.
+Open index.html to view the web application or use the live site.
 
 ** Live site - https://shuqi7.github.io/Shopify-Challenge/
 
